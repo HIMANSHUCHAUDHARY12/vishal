@@ -15,9 +15,7 @@ int main()
 	
 	s1.totalMarks();
 	s1.percent();
-	
-	cout<<"End of the program"<<endl;
-	cout<<"this is himanshu"<<endl;
+
 	
 	
 }
